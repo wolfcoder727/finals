@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">University of Santo Tomas</string>
+    <string name="content">Image</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_course_list">Colleges/Courses</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_building_list">Building List</string>
+    <string name="title_activity_engineering_choices">Faculty of Engineering Courses</string>
+    <string name="title_activity_computer_science">Computer Science</string>
+    <string name="title_activity_roque_building">Roque Ruaño Building</string>
+    <string name="roque_description">Bahay kubo kahit munti ang halaman doon ay sari-sari</string>
+    <string name="title_activity_science_choices">College of Science Courses</string>
+    <string name="title_activity_psychology">Psychology</string>
+    <string name="title_activity_information_technology">Information Technology</string>
+    <string name="title_activity_information_studies">Information Studies</string>
+    <string name="title_activity_biology">Biology</string>
+    <string name="title_activity_chemistry">Chemistry</string>
+    <string name="title_activity_architecture">Bachelor of Science in Architecture</string>
+    <string name="title_activity_main_building">Main Building</string>
+    <string name="title_activity_beato_angelico">Beato Angelico Building</string>
+    <string name="title_activity_martin_porres">St. Martin de Porres Building</string>
+    <string name="title_activity_albertus">Albertus Magnus Building</string>
+    <string name="title_activity_alfredo_velayo">Alfredo M. Velayo Building</string>
+    <string name="title_activity_benavides">Benavides Building</string>
+    <string name="title_activity_paredes">Buenaventura Garcia Paredes O.P. Building</string>
+    <string name="title_activity_raymund">Raymund de Peñafort Building</string>
+    <string name="title_activity_tan_yan_kee">UST Tan Yan Kee Student Center</string>
+    <string name="title_activity_library">Miguel de Benavides Library</string>
+    <string name="title_activity_tarc">Thomas Aquinas Research Complex</string>
+    <string name="title_activity_quad_pav">Quadricentennial Pavillion</string>
+    <string name="title_activity_seminary">Central Seminary</string>
+    <string name="title_activity_hospital">UST Hospital</string>
+    <string name="title_activity_education_choices">College of Education Courses</string>
+    <string name="title_activity_accounting_choices">College of Accountancy Courses</string>
+    <string name="title_activity_commerce_choices">College of Commerce and Business Administration Courses</string>
+    <string name="title_activity_cfad_choices">College of Fine Arts and Design Courses</string>
+    <string name="title_activity_nursing">Bachelor of Science in Nursing</string>
+    <string name="title_activity_crs_choices">College of Rehabilitation Sciences Courses</string>
+    <string name="title_activity_cthm_choices">College of Tourism and Hospitality Management Courses</string>
+    <string name="title_activity_music">Bachelor of Music</string>
+    <string name="title_activity_ab_courses">Faculty of Arts and Letters Courses</string>
+    <string name="title_activity_pharmacy_choices">Faculty of Pharmacy Courses</string>
+    <string name="title_activity_bs_accountancy">Bachelor of Science in Accountancy</string>
+    <string name="title_activity_bs_management_accounting">Bachelor of Science in Management Accounting</string>
+    <string name="title_activity_bs_business_administration">Bachelor of Science in Business Administration</string>
+    <string name="title_activity_bs_entrepreneurship">Bachelor of Science in Entrepreneurship</string>
+    <string name="title_activity_bs_elem_ed_in_pre_school">Bachelor in Elementary Education Major in Pre-School Education</string>
+    <string name="title_activity_bs_elem_ed_in_sped">Bachelor in Elementary Education Major in Special Education</string>
+
+</resources>

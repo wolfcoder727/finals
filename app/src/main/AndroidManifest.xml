@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.micha_000.ustapp" >
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".homePage"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".courseList"
+            android:label="@string/title_activity_course_list" >
+        </activity>
+        <activity
+            android:name=".buildingList"
+            android:label="@string/title_activity_building_list" >
+        </activity>
+        <activity
+            android:name=".engineeringChoices"
+            android:label="@string/title_activity_engineering_choices" >
+        </activity>
+        <activity
+            android:name=".computerScience"
+            android:label="@string/title_activity_computer_science" >
+        </activity>
+        <activity
+            android:name=".roqueBuilding"
+            android:label="@string/title_activity_roque_building" >
+        </activity>
+        <activity
+            android:name=".scienceChoices"
+            android:label="@string/title_activity_science_choices" >
+        </activity>
+        <activity
+            android:name=".psychology"
+            android:label="@string/title_activity_psychology" >
+        </activity>
+        <activity
+            android:name=".informationTechnology"
+            android:label="@string/title_activity_information_technology" >
+        </activity>
+        <activity
+            android:name=".informationStudies"
+            android:label="@string/title_activity_information_studies" >
+        </activity>
+        <activity
+            android:name=".biology"
+            android:label="@string/title_activity_biology" >
+        </activity>
+        <activity
+            android:name=".chemistry"
+            android:label="@string/title_activity_chemistry" >
+        </activity>
+        <activity
+            android:name=".architecture"
+            android:label="@string/title_activity_architecture" >
+        </activity>
+        <activity
+            android:name=".mainBuilding"
+            android:label="@string/title_activity_main_building" >
+        </activity>
+        <activity
+            android:name=".beatoAngelico"
+            android:label="@string/title_activity_beato_angelico" >
+        </activity>
+        <activity
+            android:name=".martinPorres"
+            android:label="@string/title_activity_martin_porres" >
+        </activity>
+        <activity
+            android:name=".Albertus"
+            android:label="@string/title_activity_albertus" >
+        </activity>
+        <activity
+            android:name=".alfredoVelayo"
+            android:label="@string/title_activity_alfredo_velayo" >
+        </activity>
+        <activity
+            android:name=".benavides"
+            android:label="@string/title_activity_benavides" >
+        </activity>
+        <activity
+            android:name=".paredes"
+            android:label="@string/title_activity_paredes" >
+        </activity>
+        <activity
+            android:name=".raymund"
+            android:label="@string/title_activity_raymund" >
+        </activity>
+        <activity
+            android:name=".tanYanKee"
+            android:label="@string/title_activity_tan_yan_kee" >
+        </activity>
+        <activity
+            android:name=".library"
+            android:label="@string/title_activity_library" >
+        </activity>
+        <activity
+            android:name=".tarc"
+            android:label="@string/title_activity_tarc" >
+        </activity>
+        <activity
+            android:name=".quadPav"
+            android:label="@string/title_activity_quad_pav" >
+        </activity>
+        <activity
+            android:name=".seminary"
+            android:label="@string/title_activity_seminary" >
+        </activity>
+        <activity
+            android:name=".hospital"
+            android:label="@string/title_activity_hospital" >
+        </activity>
+        <activity
+            android:name=".educationChoices"
+            android:label="@string/title_activity_education_choices" >
+        </activity>
+        <activity
+            android:name=".accountingChoices"
+            android:label="@string/title_activity_accounting_choices" >
+        </activity>
+        <activity
+            android:name=".commerceChoices"
+            android:label="@string/title_activity_commerce_choices" >
+        </activity>
+        <activity
+            android:name=".cfadChoices"
+            android:label="@string/title_activity_cfad_choices" >
+        </activity>
+        <activity
+            android:name=".nursing"
+            android:label="@string/title_activity_nursing" >
+        </activity>
+        <activity
+            android:name=".crsChoices"
+            android:label="@string/title_activity_crs_choices" >
+        </activity>
+        <activity
+            android:name=".cthmChoices"
+            android:label="@string/title_activity_cthm_choices" >
+        </activity>
+        <activity
+            android:name=".music"
+            android:label="@string/title_activity_music" >
+        </activity>
+        <activity
+            android:name=".abCourses"
+            android:label="@string/title_activity_ab_courses" >
+        </activity>
+        <activity
+            android:name=".pharmacyChoices"
+            android:label="@string/title_activity_pharmacy_choices" >
+        </activity>
+        <activity
+            android:name=".bsAccountancy"
+            android:label="@string/title_activity_bs_accountancy" >
+        </activity>
+        <activity
+            android:name=".bsManagementAccounting"
+            android:label="@string/title_activity_bs_management_accounting" >
+        </activity>
+        <activity
+            android:name=".bsBusinessAdministration"
+            android:label="@string/title_activity_bs_business_administration" >
+        </activity>
+        <activity
+            android:name=".bsEntrepreneurship"
+            android:label="@string/title_activity_bs_entrepreneurship" >
+        </activity>
+        <activity
+            android:name=".bsElemEdInPreSchool"
+            android:label="@string/title_activity_bs_elem_ed_in_pre_school" >
+        </activity>
+        <activity
+            android:name=".bsElemEdInSped"
+            android:label="@string/title_activity_bs_elem_ed_in_sped" >
+        </activity>
+    </application>
+
+</manifest>
